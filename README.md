@@ -31,15 +31,13 @@ Learn technology through interactive, narrative-driven adventures. Each session 
 
 ## Available Sessions
 
-All sessions are being regenerated with the new v2 story-first engine. Check back soon.
-
 | Subject | Setting | Beginner | Intermediate | Advanced |
 |---|---|---|---|---|
-| **Bun** | Space Station | Coming soon | Coming soon | Coming soon |
-| **Docker** | Noir City | Coming soon | Coming soon | Coming soon |
-| **Kubernetes** | Space Station | Coming soon | Coming soon | Coming soon |
-| **Mastra** | Fantasy Realm | Coming soon | Coming soon | Coming soon |
-| **C/C++** | Dark Fantasy | Coming soon | Coming soon | Coming soon |
+| **Bun** | Space Station | [Beginner](sessions/learn-bun-space-station-beginner/SKILL.md) | Coming soon | Coming soon |
+| **Docker** | Noir City | [Beginner](sessions/learn-docker-noir-city-beginner/SKILL.md) | Coming soon | Coming soon |
+| **Kubernetes** | Space Station | Coming soon | [Intermediate](sessions/learn-kubernetes-space-station-intermediate/SKILL.md) | Coming soon |
+| **Mastra** | Fantasy Realm | Coming soon | [Intermediate](sessions/learn-mastra-fantasy-realm-intermediate/SKILL.md) | Coming soon |
+| **C/C++** | Dark Fantasy | Coming soon | Coming soon | [Advanced](sessions/learn-c-cpp-dark-fantasy-advanced/SKILL.md) |
 | **React** | Modern Underworld | Coming soon | Coming soon | Coming soon |
 | **TypeScript** | Noir City | Coming soon | Coming soon | Coming soon |
 | **Node.js** | Space Station | Coming soon | Coming soon | Coming soon |
@@ -48,7 +46,7 @@ All sessions are being regenerated with the new v2 story-first engine. Check bac
 | **Go** | Dark Fantasy | Coming soon | Coming soon | Coming soon |
 | **Stagehand** | Space Station | Coming soon | Coming soon | Coming soon |
 
-**0 of 36 sessions available.** Sessions are being regenerated with the new story-first engine.
+**5 of 36 sessions available.** New sessions added regularly.
 
 ## Settings
 
