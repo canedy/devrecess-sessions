@@ -1,6 +1,72 @@
 {
   "version": "2.0.0",
-  "generatedAt": null,
-  "totalSessions": 0,
-  "sessions": []
+  "generatedAt": "2026-02-26T00:00:00Z",
+  "totalSessions": 5,
+  "sessions": [
+    {
+      "name": "learn-bun-space-station-beginner",
+      "subject": "Bun",
+      "subjectKey": "bun",
+      "category": "technology",
+      "setting": "space-station",
+      "conflict": "survival-urgency",
+      "archetype": "mentor-student",
+      "tone": "epic",
+      "difficulty": "beginner",
+      "description": "Interactive narrative learning session that teaches Bun through a Space Station adventure at beginner level. Use this session when you want to learn Bun through immersive story-driven chapters, hands-on exercises, and tasks grounded in real, up-to-date documentation.",
+      "path": "skills/learn-bun-space-station-beginner/SKILL.md"
+    },
+    {
+      "name": "learn-docker-noir-city-beginner",
+      "subject": "Docker",
+      "subjectKey": "docker",
+      "category": "technology",
+      "setting": "noir-city",
+      "conflict": "mystery-discovery",
+      "archetype": "mentor-student",
+      "tone": "gritty",
+      "difficulty": "beginner",
+      "description": "Interactive narrative learning session that teaches Docker through a Noir City adventure at beginner level. Use this session when you want to learn Docker through immersive story-driven chapters, hands-on exercises, and tasks grounded in real, up-to-date documentation.",
+      "path": "skills/learn-docker-noir-city-beginner/SKILL.md"
+    },
+    {
+      "name": "learn-kubernetes-space-station-intermediate",
+      "subject": "Kubernetes",
+      "subjectKey": "kubernetes",
+      "category": "technology",
+      "setting": "space-station",
+      "conflict": "survival-urgency",
+      "archetype": "mentor-student",
+      "tone": "epic",
+      "difficulty": "intermediate",
+      "description": "Interactive narrative learning session that teaches Kubernetes through a Space Station adventure at intermediate level. Use this session when you want to learn Kubernetes through immersive story-driven chapters, hands-on exercises, and tasks grounded in real, up-to-date documentation.",
+      "path": "skills/learn-kubernetes-space-station-intermediate/SKILL.md"
+    },
+    {
+      "name": "learn-mastra-fantasy-realm-intermediate",
+      "subject": "Mastra",
+      "subjectKey": "mastra",
+      "category": "technology",
+      "setting": "fantasy-realm",
+      "conflict": "quest-journey",
+      "archetype": "mentor-student",
+      "tone": "whimsical",
+      "difficulty": "intermediate",
+      "description": "Interactive narrative learning session that teaches Mastra through a Fantasy Realm adventure at intermediate level. Use this session when you want to learn Mastra through immersive story-driven chapters, hands-on exercises, and tasks grounded in real, up-to-date documentation.",
+      "path": "skills/learn-mastra-fantasy-realm-intermediate/SKILL.md"
+    },
+    {
+      "name": "learn-c-cpp-dark-fantasy-advanced",
+      "subject": "C/C++",
+      "subjectKey": "c-cpp",
+      "category": "technology",
+      "setting": "dark-fantasy",
+      "conflict": "survival-combat",
+      "archetype": "lone-wolf",
+      "tone": "urgent",
+      "difficulty": "advanced",
+      "description": "Interactive narrative learning session that teaches C/C++ through a Dark Fantasy adventure at advanced level. Use this session when you want to learn C/C++ through immersive story-driven chapters, hands-on exercises, and tasks grounded in real, up-to-date documentation.",
+      "path": "skills/learn-c-cpp-dark-fantasy-advanced/SKILL.md"
+    }
+  ]
 }
