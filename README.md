@@ -14,7 +14,7 @@ Learn technology through interactive, narrative-driven adventures. Each session 
 
 ```bash
 # Install as a plugin
-/plugin install canedy/devrecess-skills
+/plugin install canedy/devrecess-sessions
 ```
 
 ### Claude.ai

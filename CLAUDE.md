@@ -10,8 +10,8 @@ This repo contains free, open-source narrative-driven learning sessions for deve
 
 | Repo | Purpose |
 |---|---|
-| **document-adventures** | Marketing site (Hono + React + Tailwind) |
-| **devrecess-skills** (this repo) | Generated sessions (SKILL.md files) hosted on GitHub |
+| **devrecess-website** | Marketing site (Hono + React + Tailwind) |
+| **devrecess-sessions** (this repo) | Generated sessions (SKILL.md files) hosted on GitHub |
 | **devrecess-engine** | Generation pipeline that produces sessions |
 
 Sessions in this repo are **generated output** from the engine's four-pass pipeline. Manual edits are welcome for fixing bugs or improving content, but new sessions should be generated through the engine.
@@ -71,7 +71,7 @@ The specific combination of dimensions for each subject is defined in the engine
 
 ## How Users Access Sessions
 
-1. **Claude Code:** Install via `/plugin install canedy/devrecess-skills`
+1. **Claude Code:** Install via `/plugin install canedy/devrecess-sessions`
 2. **Claude.ai:** Upload a SKILL.md to a Project's knowledge
 3. **ChatGPT / Other:** Copy-paste the SKILL.md contents as the first message
 
