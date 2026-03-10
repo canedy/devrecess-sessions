@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "generatedAt": "2026-03-09T23:57:22.675Z",
-  "totalSessions": 10,
+  "generatedAt": "2026-03-10T00:10:10.501Z",
+  "totalSessions": 11,
   "sessions": [
     {
       "name": "learn-bun-space-station-beginner",
@@ -142,6 +142,20 @@
       "description": "Interactive narrative learning session that teaches Bubble Tea through a Real World adventure at advanced level. Use this session when you want to learn Bubble Tea through immersive story-driven chapters, hands-on exercises, and tasks grounded in real, up-to-date documentation.",
       "path": "sessions/learn-bubbletea-real-world-advanced/SKILL.md",
       "qualityScore": 7.2
+    },
+    {
+      "name": "learn-emotional-intelligence-real-world-advanced",
+      "subject": "Emotional Intelligence",
+      "subjectKey": "emotional-intelligence",
+      "category": "beyond",
+      "setting": "real-world",
+      "conflict": "quest-journey",
+      "archetype": "lone-wolf",
+      "tone": "gritty",
+      "difficulty": "advanced",
+      "description": "Interactive narrative learning session that teaches Emotional Intelligence through a Real World adventure at advanced level. Use this session when you want to learn Emotional Intelligence through immersive story-driven chapters, hands-on exercises, and tasks grounded in real, up-to-date documentation.",
+      "path": "sessions/learn-emotional-intelligence-real-world-advanced/SKILL.md",
+      "qualityScore": 8.2
     }
   ]
 }

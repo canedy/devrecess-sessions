@@ -47,8 +47,9 @@ Learn technology through interactive, narrative-driven adventures. Each session 
 | **Stagehand** | Space Station | Coming soon | Coming soon | Coming soon |
 | **Mistral AI** | Modern Underworld | Coming soon | [Intermediate](sessions/learn-mistral-modern-underworld-intermediate/SKILL.md) | Coming soon |
 | **Bubble Tea** | Real World | [Beginner](sessions/learn-bubbletea-real-world-beginner/SKILL.md) | Coming soon | [Advanced](sessions/learn-bubbletea-real-world-advanced/SKILL.md) |
+| **Emotional Intelligence** | Real World | Coming soon | Coming soon | [Advanced](sessions/learn-emotional-intelligence-real-world-advanced/SKILL.md) |
 
-**11 of 36 sessions available.** New sessions added regularly.
+**12 of 36 sessions available.** New sessions added regularly.
 ## Settings
 
 Each session takes place in one of 5 world settings, paired with composable conflict types, character archetypes, and tones:
