@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "generatedAt": "2026-03-10T00:10:10.501Z",
-  "totalSessions": 11,
+  "generatedAt": "2026-04-12T04:52:58.502Z",
+  "totalSessions": 12,
   "sessions": [
     {
       "name": "learn-bun-space-station-beginner",
@@ -15,7 +15,7 @@
       "difficulty": "beginner",
       "description": "Interactive narrative learning session that teaches Bun through a Space Station adventure at beginner level. Use this session when you want to learn Bun through immersive story-driven chapters, hands-on exercises, and tasks grounded in real, up-to-date documentation.",
       "path": "sessions/learn-bun-space-station-beginner/SKILL.md",
-      "qualityScore": 8.2
+      "qualityScore": null
     },
     {
       "name": "learn-bun-space-station-advanced",
@@ -29,7 +29,7 @@
       "difficulty": "advanced",
       "description": "Interactive narrative learning session that teaches Bun through a Space Station adventure at advanced level. Use this session when you want to learn Bun through immersive story-driven chapters, hands-on exercises, and tasks grounded in real, up-to-date documentation.",
       "path": "sessions/learn-bun-space-station-advanced/SKILL.md",
-      "qualityScore": 6.8
+      "qualityScore": null
     },
     {
       "name": "learn-docker-noir-city-beginner",
@@ -43,7 +43,7 @@
       "difficulty": "beginner",
       "description": "Interactive narrative learning session that teaches Docker through a Noir City adventure at beginner level. Use this session when you want to learn Docker through immersive story-driven chapters, hands-on exercises, and tasks grounded in real, up-to-date documentation.",
       "path": "sessions/learn-docker-noir-city-beginner/SKILL.md",
-      "qualityScore": 8.2
+      "qualityScore": null
     },
     {
       "name": "learn-kubernetes-space-station-intermediate",
@@ -57,7 +57,7 @@
       "difficulty": "intermediate",
       "description": "Interactive narrative learning session that teaches Kubernetes through a Space Station adventure at intermediate level. Use this session when you want to learn Kubernetes through immersive story-driven chapters, hands-on exercises, and tasks grounded in real, up-to-date documentation.",
       "path": "sessions/learn-kubernetes-space-station-intermediate/SKILL.md",
-      "qualityScore": 6.8
+      "qualityScore": null
     },
     {
       "name": "learn-mastra-fantasy-realm-intermediate",
@@ -71,7 +71,7 @@
       "difficulty": "intermediate",
       "description": "Interactive narrative learning session that teaches Mastra through a Fantasy Realm adventure at intermediate level. Use this session when you want to learn Mastra through immersive story-driven chapters, hands-on exercises, and tasks grounded in real, up-to-date documentation.",
       "path": "sessions/learn-mastra-fantasy-realm-intermediate/SKILL.md",
-      "qualityScore": 6.8
+      "qualityScore": null
     },
     {
       "name": "learn-c-cpp-dark-fantasy-advanced",
@@ -85,7 +85,7 @@
       "difficulty": "advanced",
       "description": "Interactive narrative learning session that teaches C/C++ through a Dark Fantasy adventure at advanced level. Use this session when you want to learn C/C++ through immersive story-driven chapters, hands-on exercises, and tasks grounded in real, up-to-date documentation.",
       "path": "sessions/learn-c-cpp-dark-fantasy-advanced/SKILL.md",
-      "qualityScore": 6.8
+      "qualityScore": null
     },
     {
       "name": "learn-react-modern-underworld-beginner",
@@ -99,7 +99,7 @@
       "difficulty": "beginner",
       "description": "Interactive narrative learning session that teaches React through a Modern Underworld adventure at beginner level. Use this session when you want to learn React through immersive story-driven chapters, hands-on exercises, and tasks grounded in real, up-to-date documentation.",
       "path": "sessions/learn-react-modern-underworld-beginner/SKILL.md",
-      "qualityScore": 7.2
+      "qualityScore": null
     },
     {
       "name": "learn-mistral-modern-underworld-intermediate",
@@ -113,7 +113,7 @@
       "difficulty": "intermediate",
       "description": "Interactive narrative learning session that teaches Mistral AI through a Modern Underworld adventure at intermediate level. Use this session when you want to learn Mistral AI through immersive story-driven chapters, hands-on exercises, and tasks grounded in real, up-to-date documentation.",
       "path": "sessions/learn-mistral-modern-underworld-intermediate/SKILL.md",
-      "qualityScore": 6.8
+      "qualityScore": null
     },
     {
       "name": "learn-bubbletea-real-world-beginner",
@@ -127,7 +127,7 @@
       "difficulty": "beginner",
       "description": "Interactive narrative learning session that teaches Bubble Tea through a Real World adventure at beginner level. Use this session when you want to learn Bubble Tea through immersive story-driven chapters, hands-on exercises, and tasks grounded in real, up-to-date documentation.",
       "path": "sessions/learn-bubbletea-real-world-beginner/SKILL.md",
-      "qualityScore": 6.8
+      "qualityScore": null
     },
     {
       "name": "learn-bubbletea-real-world-advanced",
@@ -141,7 +141,21 @@
       "difficulty": "advanced",
       "description": "Interactive narrative learning session that teaches Bubble Tea through a Real World adventure at advanced level. Use this session when you want to learn Bubble Tea through immersive story-driven chapters, hands-on exercises, and tasks grounded in real, up-to-date documentation.",
       "path": "sessions/learn-bubbletea-real-world-advanced/SKILL.md",
-      "qualityScore": 7.2
+      "qualityScore": null
+    },
+    {
+      "name": "learn-ollama-space-station-beginner",
+      "subject": "Ollama",
+      "subjectKey": "ollama",
+      "category": "technology",
+      "setting": "space-station",
+      "conflict": "cascade-failure",
+      "archetype": "mentor-student",
+      "tone": "gritty",
+      "difficulty": "beginner",
+      "description": "Interactive narrative learning session that teaches Ollama through a Space Station adventure at beginner level. Use this session when you want to learn Ollama through immersive story-driven chapters, hands-on exercises, and tasks grounded in real, up-to-date documentation.",
+      "path": "sessions/learn-ollama-space-station-beginner/SKILL.md",
+      "qualityScore": 6.8
     },
     {
       "name": "learn-emotional-intelligence-real-world-advanced",
@@ -155,7 +169,7 @@
       "difficulty": "advanced",
       "description": "Interactive narrative learning session that teaches Emotional Intelligence through a Real World adventure at advanced level. Use this session when you want to learn Emotional Intelligence through immersive story-driven chapters, hands-on exercises, and tasks grounded in real, up-to-date documentation.",
       "path": "sessions/learn-emotional-intelligence-real-world-advanced/SKILL.md",
-      "qualityScore": 8.2
+      "qualityScore": null
     }
   ]
 }
